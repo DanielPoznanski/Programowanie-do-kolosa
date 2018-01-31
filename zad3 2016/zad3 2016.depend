@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1517405662 source:d:\dziadoskie c\zad3 2016\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
